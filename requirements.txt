@@ -1,0 +1,16 @@
+crewai
+crewai-tools
+streamlit
+unstructured
+pyowm
+langchain
+langchain-community
+langchain-core
+langchain-groq
+tools
+requests
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langchain-openai
