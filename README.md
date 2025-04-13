@@ -2,7 +2,6 @@
 
 # 🏖️ Trip Planner: Streamlit with CrewAI
 
-![Streamlit App](images/trip_planner.jpg)
 
 ## Introduction
 
@@ -66,8 +65,3 @@ Pass the Ollama model to agents in the CrewAI framework:
         llm=LLM(model="ollama/llama3.2", base_url="http://localhost:11434")
     )
 ```
-
-
-## License
-
-Trip Planner is open-sourced under the MIT License.
